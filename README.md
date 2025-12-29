@@ -1,5 +1,9 @@
 # 💫 About Me:
-IT graduate (BE 2025) with training in Java Full Stack at CVCorp.<br>Skilled in Python and Java for application development.<br>Developed Sentiment Analysis project using Twitter dataset.<br>Built Habit Tracker App using core Java concepts.<br>Passionate about building efficient, data-driven, and user-friendly applications.<br>Seeking opportunities as a software developer to learn and contribute.
+-IT graduate (BE 2025) with training in Java Full Stack at CVCorp.<br>
+-Skilled in Python and Java for application development.<br>Developed Sentiment Analysis project using Twitter dataset.<br>
+-Built Habit Tracker App using core Java concepts.<br>
+-Passionate about building efficient, data-driven, and user-friendly applications.<br>
+-Seeking opportunities as a software developer to learn and contribute.
 
 
 ## 🌐 Socials:
